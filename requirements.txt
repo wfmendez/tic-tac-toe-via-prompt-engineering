@@ -1,0 +1,3 @@
+# Python Standard Library dependencies only
+# Tkinter is included with Python but might require separate install on Linux:
+# sudo apt-get install python3-tk
